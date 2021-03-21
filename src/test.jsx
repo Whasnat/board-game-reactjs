@@ -18,11 +18,11 @@ function CodeTest() {
         <button type="button" className="btn btn-outline-success">
           Pfff
         </button>
-        <img
+        {/* <img
           src="https://www.icegif.com/wp-content/uploads/laughing-funny.gif"
           alt=""
           className="logo"
-        ></img>
+        ></img> */}
 
         <p>
           Edit <code>src/App.js</code> and save to reload.
